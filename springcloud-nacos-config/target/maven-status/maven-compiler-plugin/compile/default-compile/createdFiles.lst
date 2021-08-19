@@ -1,0 +1,5 @@
+cn\yubajin\demo\springcloudnacosconfig\config\OrderProperties.class
+cn\yubajin\demo\springcloudnacosconfig\SpringcloudNacosClientApplication.class
+cn\yubajin\demo\springcloudnacosconfig\controller\AutoRefreshController.class
+cn\yubajin\demo\springcloudnacosconfig\controller\DemoController.class
+cn\yubajin\demo\springcloudnacosconfig\config\TestProperties.class

@@ -1,0 +1,3 @@
+cn\yubajin\demo\springcloudconfigclient\SpringcloudConfigClientApplication.class
+cn\yubajin\demo\springcloudconfigclient\config\OrderProperties.class
+cn\yubajin\demo\springcloudconfigclient\controller\DemoController.class
